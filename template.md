@@ -1,50 +1,35 @@
 ====================================
-BANDIT LEVEL X
+BANDIT LEVEL [NUMBER]
 ====================================
-
-Date:
-Time taken:
-
+Date: 
+Time taken: 
 
 ------------------------------------
-1. GOAL
+GOAL
 ------------------------------------
-
 What was I asked to do?
 
 
+------------------------------------
+WHAT I FOUND
+------------------------------------
+What did I see when I looked around? (files, permissions, hints)
 
 
 ------------------------------------
-2. WHAT I FOUND
+HOW I SOLVED IT
 ------------------------------------
+Commands used, in order:
+1. 
+2. 
+3. 
 
-What did I see when I looked around?
-Which commands did I run?
-
-
-
-
-------------------------------------
-3. HOW I SOLVED IT
-------------------------------------
-
-The commands that worked, in order:
-
-
-
-
-Password for next level:
-
-
+Why this worked (1-2 lines):
 
 
 ------------------------------------
-4. WHAT I LEARNED
+PASSWORD FOR NEXT LEVEL
 ------------------------------------
+[REDACTED - stored locally, not committed]
 
-New command:
-
-What it does:
-
-Anything that confused me:
+====================================
