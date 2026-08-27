@@ -1,0 +1,50 @@
+====================================
+BANDIT LEVEL X
+====================================
+
+Date:
+Time taken:
+
+
+------------------------------------
+1. GOAL
+------------------------------------
+
+What was I asked to do?
+
+
+
+
+------------------------------------
+2. WHAT I FOUND
+------------------------------------
+
+What did I see when I looked around?
+Which commands did I run?
+
+
+
+
+------------------------------------
+3. HOW I SOLVED IT
+------------------------------------
+
+The commands that worked, in order:
+
+
+
+
+Password for next level:
+
+
+
+
+------------------------------------
+4. WHAT I LEARNED
+------------------------------------
+
+New command:
+
+What it does:
+
+Anything that confused me:
